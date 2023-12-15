@@ -1,0 +1,33 @@
+<html>
+  <body> <link rel="stylesheet" href="style.css">
+    <ul>
+    <br>
+      <li><a href = "index.html"> Home </a> </li>
+      <li><a href = "index2.html"> Apps </a> </li>
+      <li><a href = "index3.html"> Designs </a> </li>
+      <li><a href = "index4.html"> Games </a> </li>
+      <li><a href = "index5.html"> Photos </a></li>
+    </ul>
+    <br>
+    <center>
+    <br>
+    <br>
+    <br>
+    <h1> Photos </h1>
+    <p> Abigail Gia Vong
+      <br>
+      <br>
+      Sesame Street Quiz Multi Screen App The Internet (September 21) Failed Ponyo (September 22) </p>
+      <br>
+      <img width="350" height="350" style="border: 2px;"
+src = "file:///H:/Chrome%20Downloads/IMG_8361.jpg"> </img>
+      <img width="350" height="350" style="border: 2px;"
+src = "file:///H:/Chrome%20Downloads/IMG_0103.jpg"> </img>
+      <img width="350" height="350" style="border: 2px;"
+src = "file:///H:/Chrome%20Downloads/IMG_0169.jpg"> </img>
+      <br>
+      <br>
+      <br>
+    </center>
+  </body>
+</html>
