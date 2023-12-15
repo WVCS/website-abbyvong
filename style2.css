@@ -1,0 +1,35 @@
+body{
+  background-color: #AE8F8E;
+}
+h1{
+  color: #40292C;
+  font-family: "Garamond";
+  font-size: 200%;
+}
+p{
+  color: #55373B;
+  font-family: "Garamond";
+  font-size: 125%;
+  font-weight: bold;
+}
+ul{
+  text-align: center;
+  list-style-type: none;
+  position: fixed;
+}
+li{
+  float: left;
+}
+li a{
+  border: solid;
+  color: #55373B;
+  font-family: "Garamond";
+  font-size: 125%;
+  font-weight: bold;
+  padding: 8px;
+  text-decoration: none;
+}
+li a:hover {
+  background-color: #976F6E;
+  color:white;
+}
